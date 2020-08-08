@@ -1,0 +1,10 @@
+mylist:
+  - one
+  - two
+  - three
+  - foue
+  - inside list :
+      - star1
+        star2
+        star3
+        star4

@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app2
+  labels:
+    env: test-dep
+    tier: py
+spec:
+  selector:
+    matchLabels:
+      env: stage
+  replicas: 4
+  template:
+    metadata:
+      name: my-app-dep
+      labels:
+        env: stage
+        tier: backend
+    spec:
+      containers:
+        - name: tiny-http
+          image: hjacobs/tiny-docker-http-test
