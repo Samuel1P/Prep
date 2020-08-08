@@ -1,0 +1,10 @@
+template:
+  metadata:
+    labels:
+      env: stage
+      tier: backend
+    name: my-app-dep
+  spec:
+    containers:
+    - image: hjacobs/tiny-docker-http-test
+      name: tiny-http
