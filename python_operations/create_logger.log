@@ -1,0 +1,22 @@
+08/08/2020 01:44:51 PM : DEBUG : 20 : Morphy is a Good chess player.
+08/08/2020 01:45:13 PM : DEBUG : 20 : Topalov is a Good chess player.
+08/08/2020 01:45:14 PM : DEBUG : 20 : Giri is a Good chess player.
+08/08/2020 01:45:15 PM : DEBUG : 20 : Kasparov is a Good chess player.
+08/08/2020 01:45:17 PM : DEBUG : 20 : Spasky is a Good chess player.
+08/08/2020 01:45:18 PM : DEBUG : 20 : Topalov is a Good chess player.
+08/08/2020 01:45:18 PM : DEBUG : 20 : Tal is a Good chess player.
+08/08/2020 01:45:24 PM : DEBUG : 20 : Magnus is a Great chess player.
+08/08/2020 01:45:24 PM : DEBUG : 20 : Barnes is a Good chess player.
+08/08/2020 01:45:44 PM : DEBUG : 20 : Fischer is a Great chess player.
+08/08/2020 01:45:45 PM : DEBUG : 20 : Karpov is a Great chess player.
+08/08/2020 01:45:46 PM : DEBUG : 20 : Topalov is a Great chess player.
+08/08/2020 01:45:47 PM : DEBUG : 20 : Fischer is a Good chess player.
+08/08/2020 01:45:48 PM : DEBUG : 20 : Topalov is a Fantastic chess player.
+08/08/2020 01:47:19 PM : DEBUG : 20 : Morphy is a Fantastic chess player.
+08/08/2020 01:48:52 PM : DEBUG : 24 : Spasky is a Fantastic chess player. : create_logger_method : player_level : MainThread
+08/08/2020 01:49:50 PM : DEBUG : 24 : Morphy is a Great chess player. : create_logger_method : player_level : MainThread
+08/08/2020 01:50:27 PM : DEBUG : 24 : Nakamura is a Great chess player. : create_logger_method : player_level : create_logger_method.py : MainThread
+08/08/2020 01:52:00 PM : DEBUG : 25 : Tal is a Great chess player.: - create_logger_method.py
+08/08/2020 01:52:09 PM : DEBUG : 25 : Spasky is a Great chess player. - create_logger_method.py
+08/08/2020 01:52:12 PM : DEBUG : 25 : Fischer is a Great chess player. - create_logger_method.py
+08/08/2020 01:52:13 PM : DEBUG : 25 : Fischer is a Good chess player. - create_logger_method.py
