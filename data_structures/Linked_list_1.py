@@ -8,11 +8,11 @@ class node:
         return f"node('{self.element}', {self.reference})"
 
     def node_contents(self):
-        print(f" data :{self.element} -- ref: {self.reference.__repr__()}")
+        print(f" data : {self.element} -- ref repr: {self.reference.__repr__()}")
 
-node1 = node('data1', None)
-node2 = node('data2', None)
-node3 = node('data3', None)
+node1 = node('Magnus', None)
+node2 = node('Hikaru', None)
+node3 = node('Caruana', None)
 node1.reference = node2
 node2.reference = node3
 node1.node_contents()
